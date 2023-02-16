@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="columns is-centered">
+    <div class="column is-half">
+        <form class="box" action="/" method="post">
+            {% for msg in get_flashed_messages()%}
+            <div class="field">{{msg}}</div>
+            {% endfor %}
+            <div class="field">
+                <label class="label">Название чайника</label>
+                <div class="control">
+                    <input class="input" type="text" name="name" required>
+                </div>
+            </div>
+
+            <div class="field">
+                <label class="label">Мощность, Вт</label>
+                <div class="control">
+                    <input class="input" type="number" name="power" max="4000" min="100" required>
+                </div>
+            </div>
+
+            <div class="field">
+                <label class="label">Емкость чайника, Л</label>
+                <div class="control">
+                    <input class="input" type="number" name="volume" max="3.50" min="0.50" step="0.1" required>
+                </div>
+            </div>
+
+            <div class="field">
+                <label class="label">Залитая вода, Л</label>
+                <div class="control">
+                    <input class="input" type="number" name="filled_water" max="3.50" min="0.50" step="0.1" required>
+                </div>
+            </div>
+            <div class="field">
+                <label class="label">Начальная температура, tC</label>
+                <div class="control">
+                    <input class="input" type="number" name="start_temp" max="99" min="0" step="0.1" required>
+                </div>
+            </div>
+
+            <button type="submit" class="button is-primary" name="is_active" value="1">Включить чайник</button>
+        </form>
+        <form class="box" action="/cancel" method="post">
+            <button type="submit" class="button is-primary" name="is_active" value="0">Выключить чайник</button>
+        </form>
+
+    </div>
+</div>
+{% endblock %}

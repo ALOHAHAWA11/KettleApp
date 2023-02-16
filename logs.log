@@ -1,0 +1,195 @@
+2023-02-16T21:32:06.214481+0400 INFO Start of application.
+2023-02-16T21:32:06.449450+0400 INFO Start of application.
+2023-02-16T21:32:10.298062+0400 INFO Index page on a screen.
+2023-02-16T21:32:10.298062+0400 DEBUG Creating/getting of a database handler object.
+2023-02-16T21:32:10.298062+0400 DEBUG Creating/getting of a database handler object - Success.
+2023-02-16T21:32:10.298062+0400 DEBUG Initialisation of a database handler.
+2023-02-16T21:32:10.299063+0400 DEBUG Initialisation of a database handler - Success.
+2023-02-16T21:32:14.936737+0400 INFO Index page on a screen.
+2023-02-16T21:32:14.937736+0400 DEBUG Creating/getting of a database handler object.
+2023-02-16T21:32:14.937736+0400 DEBUG Creating/getting of a database handler object - Success.
+2023-02-16T21:32:14.937736+0400 DEBUG Initialisation of a database handler.
+2023-02-16T21:32:14.937736+0400 DEBUG Initialisation of a database handler - Success.
+2023-02-16T21:32:14.937736+0400 DEBUG Accepted POST request on /index.
+2023-02-16T21:32:14.938736+0400 DEBUG Initialisation of a kettle object.
+2023-02-16T21:32:14.938736+0400 DEBUG Initialisation of a kettle object - Success.
+2023-02-16T21:32:14.938736+0400 DEBUG Kettle object has been created.
+2023-02-16T21:32:14.938736+0400 DEBUG Fill water.
+2023-02-16T21:32:14.939736+0400 DEBUG Fill water - Success.
+2023-02-16T21:32:14.939736+0400 INFO Water in a kettle
+2023-02-16T21:32:14.939736+0400 DEBUG Turn on a kettle.
+2023-02-16T21:32:14.939736+0400 DEBUG Turn on a kettle - Success.
+2023-02-16T21:32:14.939736+0400 INFO Kettle is turned on.
+2023-02-16T21:32:14.939736+0400 DEBUG Boil water.
+2023-02-16T21:32:14.939736+0400 DEBUG Increase of a temperature.
+2023-02-16T21:32:15.951931+0400 DEBUG Insertion of a records.
+2023-02-16T21:32:15.951931+0400 DEBUG Load query and execute.
+2023-02-16T21:32:15.954977+0400 DEBUG Execute query - Success.
+2023-02-16T21:32:16.207645+0400 INFO Cancel page on the screen.
+2023-02-16T21:32:16.208645+0400 DEBUG Accepted POST request on /cancel
+2023-02-16T21:32:16.208645+0400 DEBUG Turn off a kettle.
+2023-02-16T21:32:16.208645+0400 DEBUG Turn off a kettle - Success.
+2023-02-16T21:32:16.208645+0400 INFO Kettle is turned off.
+2023-02-16T21:32:16.960139+0400 DEBUG Insertion of a records.
+2023-02-16T21:32:16.960139+0400 DEBUG Load query and execute.
+2023-02-16T21:32:16.963005+0400 DEBUG Execute query - Success.
+2023-02-16T21:32:16.963005+0400 DEBUG Stopping of a boiling.
+2023-02-16T21:32:16.963005+0400 DEBUG Boil water - Success.
+2023-02-16T21:32:16.963005+0400 INFO End of a boil process.
+2023-02-16T21:32:38.438151+0400 INFO Start of application.
+2023-02-16T21:33:12.479434+0400 INFO Index page on a screen.
+2023-02-16T21:33:12.479434+0400 DEBUG Creating/getting of a database handler object.
+2023-02-16T21:33:12.480389+0400 DEBUG Creating/getting of a database handler object - Success.
+2023-02-16T21:33:12.480389+0400 DEBUG Initialisation of a database handler.
+2023-02-16T21:33:12.480389+0400 DEBUG Initialisation of a database handler - Success.
+2023-02-16T21:33:12.480389+0400 DEBUG Accepted POST request on /index.
+2023-02-16T21:33:12.481375+0400 DEBUG Initialisation of a kettle object.
+2023-02-16T21:33:12.481375+0400 DEBUG Initialisation of a kettle object - Success.
+2023-02-16T21:33:12.481375+0400 DEBUG Kettle object has been created.
+2023-02-16T21:33:12.481375+0400 DEBUG Fill water.
+2023-02-16T21:33:12.481375+0400 DEBUG Fill water - Success.
+2023-02-16T21:33:12.481375+0400 INFO Water in a kettle
+2023-02-16T21:33:12.481375+0400 DEBUG Turn on a kettle.
+2023-02-16T21:33:12.481375+0400 DEBUG Turn on a kettle - Success.
+2023-02-16T21:33:12.481375+0400 INFO Kettle is turned on.
+2023-02-16T21:33:12.482376+0400 DEBUG Boil water.
+2023-02-16T21:33:12.482376+0400 DEBUG Increase of a temperature.
+2023-02-16T21:33:13.484289+0400 DEBUG Insertion of a records.
+2023-02-16T21:33:13.484289+0400 DEBUG Load query and execute.
+2023-02-16T21:33:13.486291+0400 DEBUG Execute query - Success.
+2023-02-16T21:33:13.854492+0400 INFO Cancel page on the screen.
+2023-02-16T21:33:13.854492+0400 DEBUG Accepted POST request on /cancel
+2023-02-16T21:33:13.854492+0400 DEBUG Turn off a kettle.
+2023-02-16T21:33:13.854492+0400 DEBUG Turn off a kettle - Success.
+2023-02-16T21:33:13.854492+0400 INFO Kettle is turned off.
+2023-02-16T21:33:14.498602+0400 DEBUG Insertion of a records.
+2023-02-16T21:33:14.498602+0400 DEBUG Load query and execute.
+2023-02-16T21:33:14.501471+0400 DEBUG Execute query - Success.
+2023-02-16T21:33:14.501471+0400 DEBUG Stopping of a boiling.
+2023-02-16T21:33:14.501471+0400 DEBUG Boil water - Success.
+2023-02-16T21:33:14.501471+0400 INFO End of a boil process.
+2023-02-16T21:33:39.595868+0400 INFO Start of application.
+2023-02-16T21:33:39.826793+0400 INFO Start of application.
+2023-02-16T21:33:42.720024+0400 INFO Index page on a screen.
+2023-02-16T21:33:42.721025+0400 DEBUG Creating/getting of a database handler object.
+2023-02-16T21:33:42.721025+0400 DEBUG Creating/getting of a database handler object - Success.
+2023-02-16T21:33:42.721025+0400 DEBUG Initialisation of a database handler.
+2023-02-16T21:33:42.723022+0400 DEBUG Initialisation of a database handler - Success.
+2023-02-16T21:33:47.686855+0400 INFO Index page on a screen.
+2023-02-16T21:33:47.686855+0400 DEBUG Creating/getting of a database handler object.
+2023-02-16T21:33:47.686855+0400 DEBUG Creating/getting of a database handler object - Success.
+2023-02-16T21:33:47.686855+0400 DEBUG Initialisation of a database handler.
+2023-02-16T21:33:47.687845+0400 DEBUG Initialisation of a database handler - Success.
+2023-02-16T21:33:47.687845+0400 DEBUG Accepted POST request on /index.
+2023-02-16T21:33:47.688846+0400 DEBUG Initialisation of a kettle object.
+2023-02-16T21:33:47.688846+0400 DEBUG Initialisation of a kettle object - Success.
+2023-02-16T21:33:47.688846+0400 DEBUG Kettle object has been created.
+2023-02-16T21:33:47.688846+0400 DEBUG Fill water.
+2023-02-16T21:33:47.688846+0400 DEBUG Fill water - Success.
+2023-02-16T21:33:47.688846+0400 INFO Water in a kettle
+2023-02-16T21:33:47.688846+0400 DEBUG Turn on a kettle.
+2023-02-16T21:33:47.688846+0400 DEBUG Turn on a kettle - Success.
+2023-02-16T21:33:47.688846+0400 INFO Kettle is turned on.
+2023-02-16T21:33:47.688846+0400 DEBUG Boil water.
+2023-02-16T21:33:47.688846+0400 DEBUG Increase of a temperature.
+2023-02-16T21:33:48.638560+0400 INFO Cancel page on the screen.
+2023-02-16T21:33:48.638560+0400 DEBUG Accepted POST request on /cancel
+2023-02-16T21:33:48.638560+0400 DEBUG Turn off a kettle.
+2023-02-16T21:33:48.638560+0400 DEBUG Turn off a kettle - Success.
+2023-02-16T21:33:48.638560+0400 INFO Kettle is turned off.
+2023-02-16T21:33:48.703625+0400 DEBUG Insertion of a records.
+2023-02-16T21:33:48.703625+0400 DEBUG Load query and execute.
+2023-02-16T21:33:48.706595+0400 DEBUG Execute query - Success.
+2023-02-16T21:33:48.706595+0400 DEBUG Stopping of a boiling.
+2023-02-16T21:33:48.706595+0400 DEBUG Boil water - Success.
+2023-02-16T21:33:48.706595+0400 INFO End of a boil process.
+2023-02-16T21:35:43.898734+0400 INFO Start of application.
+2023-02-16T21:36:57.763260+0400 INFO Start of application.
+2023-02-16T21:36:57.999224+0400 INFO Start of application.
+2023-02-16T21:37:02.134994+0400 INFO Index page on a screen.
+2023-02-16T21:37:02.134994+0400 DEBUG Creating/getting of a database handler object.
+2023-02-16T21:37:02.134994+0400 DEBUG Creating/getting of a database handler object - Success.
+2023-02-16T21:37:02.134994+0400 DEBUG Initialisation of a database handler.
+2023-02-16T21:37:02.135992+0400 DEBUG Initialisation of a database handler - Success.
+2023-02-16T21:37:43.916142+0400 INFO Index page on a screen.
+2023-02-16T21:37:43.917143+0400 DEBUG Creating/getting of a database handler object.
+2023-02-16T21:37:43.917143+0400 DEBUG Creating/getting of a database handler object - Success.
+2023-02-16T21:37:43.917143+0400 DEBUG Initialisation of a database handler.
+2023-02-16T21:37:43.917143+0400 DEBUG Initialisation of a database handler - Success.
+2023-02-16T21:37:44.369092+0400 INFO Start of application.
+2023-02-16T21:37:46.774637+0400 INFO Index page on a screen.
+2023-02-16T21:37:46.774637+0400 DEBUG Creating/getting of a database handler object.
+2023-02-16T21:37:46.774637+0400 DEBUG Creating/getting of a database handler object - Success.
+2023-02-16T21:37:46.774637+0400 DEBUG Initialisation of a database handler.
+2023-02-16T21:37:46.774637+0400 DEBUG Initialisation of a database handler - Success.
+2023-02-16T21:38:29.468452+0400 INFO Index page on a screen.
+2023-02-16T21:38:29.469453+0400 DEBUG Creating/getting of a database handler object.
+2023-02-16T21:38:29.469453+0400 DEBUG Creating/getting of a database handler object - Success.
+2023-02-16T21:38:29.469453+0400 DEBUG Initialisation of a database handler.
+2023-02-16T21:38:29.469453+0400 DEBUG Initialisation of a database handler - Success.
+2023-02-16T21:38:31.683900+0400 INFO Start of application.
+2023-02-16T21:38:31.916928+0400 INFO Start of application.
+2023-02-16T21:38:32.852400+0400 INFO Index page on a screen.
+2023-02-16T21:38:32.852400+0400 DEBUG Creating/getting of a database handler object.
+2023-02-16T21:38:32.852400+0400 DEBUG Creating/getting of a database handler object - Success.
+2023-02-16T21:38:32.852400+0400 DEBUG Initialisation of a database handler.
+2023-02-16T21:38:32.853397+0400 DEBUG Initialisation of a database handler - Success.
+2023-02-16T21:39:17.646044+0400 INFO Index page on a screen.
+2023-02-16T21:39:17.646044+0400 DEBUG Creating/getting of a database handler object.
+2023-02-16T21:39:17.646044+0400 DEBUG Creating/getting of a database handler object - Success.
+2023-02-16T21:39:17.646044+0400 DEBUG Initialisation of a database handler.
+2023-02-16T21:39:17.647045+0400 DEBUG Initialisation of a database handler - Success.
+2023-02-16T21:39:32.055518+0400 INFO Index page on a screen.
+2023-02-16T21:39:32.055518+0400 DEBUG Creating/getting of a database handler object.
+2023-02-16T21:39:32.055518+0400 DEBUG Creating/getting of a database handler object - Success.
+2023-02-16T21:39:32.055518+0400 DEBUG Initialisation of a database handler.
+2023-02-16T21:39:32.056518+0400 DEBUG Initialisation of a database handler - Success.
+2023-02-16T21:39:32.056518+0400 DEBUG Accepted POST request on /index.
+2023-02-16T21:39:32.057518+0400 DEBUG Initialisation of a kettle object.
+2023-02-16T21:39:32.057518+0400 DEBUG Initialisation of a kettle object - Success.
+2023-02-16T21:39:32.057518+0400 DEBUG Kettle object has been created.
+2023-02-16T21:39:32.057518+0400 DEBUG Fill water.
+2023-02-16T21:39:32.057518+0400 DEBUG Fill water - Success.
+2023-02-16T21:39:32.057518+0400 INFO Water in a kettle
+2023-02-16T21:39:32.057518+0400 DEBUG Turn on a kettle.
+2023-02-16T21:39:32.057518+0400 DEBUG Turn on a kettle - Success.
+2023-02-16T21:39:32.057518+0400 INFO Kettle is turned on.
+2023-02-16T21:39:32.058518+0400 DEBUG Boil water.
+2023-02-16T21:39:32.058518+0400 DEBUG Increase of a temperature.
+2023-02-16T21:39:33.068221+0400 DEBUG Insertion of a records.
+2023-02-16T21:39:33.068221+0400 DEBUG Load query and execute.
+2023-02-16T21:39:33.071089+0400 DEBUG Execute query - Success.
+2023-02-16T21:39:34.080416+0400 DEBUG Insertion of a records.
+2023-02-16T21:39:34.080416+0400 DEBUG Load query and execute.
+2023-02-16T21:39:34.082388+0400 DEBUG Execute query - Success.
+2023-02-16T21:39:35.091818+0400 DEBUG Insertion of a records.
+2023-02-16T21:39:35.091818+0400 DEBUG Load query and execute.
+2023-02-16T21:39:35.095731+0400 DEBUG Execute query - Success.
+2023-02-16T21:39:36.101047+0400 DEBUG Insertion of a records.
+2023-02-16T21:39:36.101047+0400 DEBUG Load query and execute.
+2023-02-16T21:39:36.104062+0400 DEBUG Execute query - Success.
+2023-02-16T21:39:37.105534+0400 DEBUG Insertion of a records.
+2023-02-16T21:39:37.105534+0400 DEBUG Load query and execute.
+2023-02-16T21:39:37.108408+0400 DEBUG Execute query - Success.
+2023-02-16T21:39:38.114868+0400 DEBUG Insertion of a records.
+2023-02-16T21:39:38.114868+0400 DEBUG Load query and execute.
+2023-02-16T21:39:38.118011+0400 DEBUG Execute query - Success.
+2023-02-16T21:39:39.123957+0400 DEBUG Insertion of a records.
+2023-02-16T21:39:39.123957+0400 DEBUG Load query and execute.
+2023-02-16T21:39:39.126826+0400 DEBUG Execute query - Success.
+2023-02-16T21:39:39.385109+0400 INFO Cancel page on the screen.
+2023-02-16T21:39:39.385109+0400 DEBUG Accepted POST request on /cancel
+2023-02-16T21:39:39.385109+0400 DEBUG Turn off a kettle.
+2023-02-16T21:39:39.385109+0400 DEBUG Turn off a kettle - Success.
+2023-02-16T21:39:39.385109+0400 INFO Kettle is turned off.
+2023-02-16T21:39:40.133902+0400 DEBUG Insertion of a records.
+2023-02-16T21:39:40.133902+0400 DEBUG Load query and execute.
+2023-02-16T21:39:40.135815+0400 DEBUG Execute query - Success.
+2023-02-16T21:39:40.136822+0400 DEBUG Stopping of a boiling.
+2023-02-16T21:39:40.136822+0400 DEBUG Boil water - Success.
+2023-02-16T21:39:40.136822+0400 INFO End of a boil process.
+2023-02-16T21:41:30.634580+0400 INFO Index page on a screen.
+2023-02-16T21:41:30.635580+0400 DEBUG Creating/getting of a database handler object.
+2023-02-16T21:41:30.635580+0400 DEBUG Creating/getting of a database handler object - Success.
+2023-02-16T21:41:30.635580+0400 DEBUG Initialisation of a database handler.
+2023-02-16T21:41:30.635580+0400 DEBUG Initialisation of a database handler - Success.
