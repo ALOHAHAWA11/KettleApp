@@ -49,10 +49,12 @@ def cancel():
     """Page of a canceling of the boil process"""
     logger.info("Cancel page on the screen.")
     if request.method == 'POST':
-        logger.debug("Accepted POST request on /cancel")
-        kettle.turn_off()
-        logger.info("Kettle is turned off.")
-        current_temp = str(kettle.current_temp)
+        current_temp = None
+        if 'kettle' in globals():
+            logger.debug("Accepted POST request on /cancel")
+            kettle.turn_off()
+            logger.info("Kettle is turned off.")
+            current_temp = str(kettle.current_temp)
     return render_template('cancel.html', current_temp=current_temp)
 
 
